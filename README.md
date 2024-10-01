@@ -1,14 +1,14 @@
-### STINGER-V2 BUG BOT 
+### HAX3R BUG BOT 
    
 <p align="center">
-<img src="https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg"/> 
+<img src="https://i.ibb.co/qF53V71/image.jpg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+STINGER+V2+BUG+BOT-BOT;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+ES+TEAMS;REALESE+DATE+10%2F9%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+HAX3R+BUG+BOT-;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+SALEH+ZUBAIR;REALESE+DATE+10%2F9%2F2024." alt="Typing SVG" /></a>
 </p>
 
 ### If you want to deploy on panel, download bot zip file and upload it to your server 
 
-### 1. <a href="https://github.com/paskito002/STINGER-V2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork STINGER-V2" width="70"></a>
+### 1. <a href="https://github.com/HAX3R-099/techgodv8/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork HAX3R-BOT" width="70"></a>
 
  ### 2. Deploy on Panel
 
@@ -20,7 +20,7 @@
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lKYlMv5hyUk)
 
 ### 3.
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [STINGER-V2 BUG BOT](https://github.com/paskito002/STINGER-V2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [STINGER-V2 BUG BOT](https://github.com/HAX3R-099/techgodv8) ON ANY TERMINAL
 sudo apt -y update && sudo apt -y upgrade
 ```
 sudo apt -y install git ffmpeg curl
@@ -41,16 +41,16 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/STINGER-V2
+git clone https://github.com/HAX3R-099/techgodv8
 ```
 ```
-cd STINGER-V2
+cd techgodv8
 yarn install 
 npm start
  
 # Termux Deployment
 
-atp update
+apt update
    
 
 apt upgrade
@@ -74,10 +74,10 @@ pkg install imagemagick
 termux-setup-storage
 
 
-git clone https://github.com/paskito002/STINGER-V2
+git clone https://github.com/HAX3R-099/techgodv8
 ```
 ```
- cd STINGER-V2
+ cd techgodv8
 ```
 ```
 yarn install
@@ -89,7 +89,7 @@ npm start
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349037524605"><img src="https://img.shields.io/badge/Contact ES-TEAMS TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/923025616121"><img src="https://img.shields.io/badge/Contact ES-TEAMS TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@esteams"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@esteams" /><br>
 <p align="center">
