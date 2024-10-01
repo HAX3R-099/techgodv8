@@ -69,7 +69,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +916909137213")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +923025616121")))
             process.exit(0)
          }
       } else {
@@ -165,7 +165,7 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         	console.log(chalk.magenta(` `))
             console.log(chalk.yellow(`🌿Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
 			await delay(1999)
-            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ Tech God V8 ]`)}\n\n`))
+            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ＨＡＸＥＲ ]`)}\n\n`))
             console.log(chalk.cyan(`< ==========================⛧-h̵͎̤͓̤̉̌̓̿̿a̶̙̿͋͠x̸̮͕̦͂̒̀͛͑e̴̛̱͊̎͜r̶̭̳̣̂́̆ ⛧======================== >`))
 	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: MuhammadSalehZubair`))
             console.log(chalk.magenta(`${themeemoji} GITHUB: HAX3R099 `))
