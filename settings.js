@@ -9,7 +9,7 @@ global.socialm = "GitHub: HAX3R099"
 global.location = "Pakistan, Punjab, Gujranwala"
 
 global.ownernumber = '923025616121'  //creator number
-global.ownername = '⛧-h̵͎̤͓̤̉̌̓̿̿a̶̙̿͋͠x̸̮͕̦͂̒̀͛͑e̴̛̱͊̎͜r̶̭̳̣̂́̆ ⛧' //owner name
+global.ownername = '⛧-h̵͎̤̉̌̓̿̿a̶̿͋͠x̸͂e̴͊r̶̭̂́̆ ⛧' //owner name
 global.botname = 'Hᴀxᴇʀ̷̨͚͍́ͅ' //name of the bot
 
 //sticker details
